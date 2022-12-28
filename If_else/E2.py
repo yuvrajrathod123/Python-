@@ -18,3 +18,4 @@ elif option == "f":
      print("The temprature in Fahrenheitn : ",cel,"C")
 else:
     print("Plz Enter right option")
+    
