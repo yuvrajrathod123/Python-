@@ -20,4 +20,4 @@
 
 # in single lilne
 
-print([n for n in range(1500,2700) if n%7==0 and n%5==0])
+print([n for n in range(1500,2700) if n%7==0 and n%5==0])   
