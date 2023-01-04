@@ -23,6 +23,7 @@ print(type(L1))
 #tuple store in variable
 t = (1,2,3,4,5)
 print("T:",t)
+
 print(type(t))
 print("\n")
 
