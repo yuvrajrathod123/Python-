@@ -13,9 +13,9 @@
 # now lets re write the code with an acception    
 
 
-try:
-    print(x)
-except:
-    print("something went wrong")
-else:
-    print("Nothing went wrong")        
+# try:
+#     print(x)
+# except:
+#     print("something went wrong")
+# else:
+#     print("Nothing went wrong")        
